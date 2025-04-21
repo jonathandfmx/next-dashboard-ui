@@ -80,7 +80,7 @@ const SubjectForm = ({
             hidden
           />
         )}
-        <div className="flex flex-col gap-2 w-full md:w-1/4">
+        <div className="flex flex-col gap-2 w-full md:w-1/4 lg:w-full">
           <label className="text-xs text-gray-500">Teachers</label>
           <select
             multiple
